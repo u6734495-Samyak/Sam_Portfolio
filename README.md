@@ -71,7 +71,7 @@ The goal of this study was to experiment with the network reduction technique ba
 
 
 
-![](/images/Accuracies%20with%20different%20models.png)
+![](/images/Accuracies%20with%20different%20models.png) | ![](/images/CR%20with%20different%20number%20of%20%20hidden%20Neurons.png)
 
 
 
