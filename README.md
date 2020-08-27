@@ -3,7 +3,7 @@
 A combination of lightweight, high specific strength, and good castability make magnesium alloys a promising engineering material for the automotive and aerospace industries. Vehicle weight reduction is one of the major means available to improve automotive fuel efficiency. High-strength steels, Aluminium (Al), and polymers are already being used to reduce weight significantly, but substantial additional reductions could be achieved by greater use of low-density magnesium (Mg) and its alloys. This project herein, therefore, relies on the use of machine learning, to assist in the development of A.I. to predict alloy compositions that are potentially useful for future metallic alloys. This study shows how a machine learning approach is able to offer acceptable precision predictions with respect to the main mechanical properties of metals.
 
 <p align="center">
-  <img src="/images/Pie.png" width="800" />
+  <img src="/images/Pie.png" />
 </p>
 
 
@@ -17,7 +17,7 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * In this particular exercise, Support Vector Machine was able to acheive the highest average and overall accuracy.
 
 <p align="center">
-  <img src="/images/metrics.png" width="600" />
+  <img src="/images/metrics.png" />
 </p>
 
 
