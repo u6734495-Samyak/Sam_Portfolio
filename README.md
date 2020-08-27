@@ -28,3 +28,13 @@ Original Image             |  Gaussian Filter
 
 
 
+
+# Project 4:  Harris Corner Detection and K-means Project Overview
+
+* Implemented Harris Corner Algorithm
+* Non- Maximum Supression to detect only relevant corners
+* K-Means ALgorithm
+* K means ++
+
+
+
