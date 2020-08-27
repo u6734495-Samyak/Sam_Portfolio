@@ -45,9 +45,15 @@ Original Image             |   My Harris Corner
 
 
 
-Original Image             |  K=10 (random init)                              |     K=15 (random init)    
-:-------------------------:|:------------------------------------------------:|:----------------------------------------------:
-![](/images/peppers.png)   |  ![](/images/%20pep%20k%20%3D10%20random%20.png) | ![](/images/%20pep%20k%20%3D15%20random%20.png)
+   
+
+![](/images/peppers.png)
+
+
+![](/images/%20pep%20k%20%3D10%20random%20.png)
+
+
+![](/images/%20pep%20k%20%3D15%20random%20.png)
 
 
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
@@ -62,7 +68,10 @@ Original Image             |  K=10 (random init)                              | 
 In this age of deep learning , neural nets with large number neurons and parameters are very common . But , a rule of thumb for obtaining good generalisation is to make sure that we build the smallest system that fits the data. It is essential to prune the network for making it more efficient. In this paper we discuss about one such pruning technique that we learned from a previous paper that is based on the angles between the unit vectors of the hidden layer which are similar or complementary towards the output. Initially we build a simple three layer network to classify different emotions of faces and then compare the results after applying the technique and see how it affects our neural network.
 
 
-![](/images/Accuracy%20Graph.png) | ![](/images/Accuracy%20Graph1.png)
+![](/images/Accuracy%20Graph.png) 
+
+
+![](/images/Accuracy%20Graph1.png)
 
 
 # [Project 7 : Transfer Learning and Network Redution](https://github.com/u6734495-Samyak/Transfer-Learning-with-Network-Redcution-Technique)
@@ -71,7 +80,13 @@ The goal of this study was to experiment with the network reduction technique ba
 
 
 
-![](/images/Accuracies%20with%20different%20models.png) | ![](/images/CR%20with%20different%20number%20of%20%20hidden%20Neurons.png) | ![](/images/_Effects%20of%20Pruning%20with%20different%20Hidden%20Units%20(1).png)
+![](/images/Accuracies%20with%20different%20models.png) 
+
+
+![](/images/CR%20with%20different%20number%20of%20%20hidden%20Neurons.png) 
+
+
+![](/images/_Effects%20of%20Pruning%20with%20different%20Hidden%20Units%20(1).png)
 
 
 
