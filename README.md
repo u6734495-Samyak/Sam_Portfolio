@@ -29,12 +29,24 @@ Original Image             |  Gaussian Filter
 
 
 
-# Project 4:  Harris Corner Detection and K-means Project Overview
+# [Project 4:  Harris Corner Detection and K-means : Project Overview](https://github.com/u6734495-Samyak/Harris-Corner-and-Kmeans)
 
 * Implemented Harris Corner Algorithm
 * Non- Maximum Supression to detect only relevant corners
 * K-Means ALgorithm
 * K means ++
+
+
+Original Image             |   My Harris Corner
+:-------------------------:|:-------------------------:
+![](/images/Harris_4.jpg)  |  ![](/images/Corner_4.jpg)
+
+
+
+Original Image             |                 K=10 (random init)               |                  K=15 (random init)    
+:-------------------------:|:------------------------------------------------:|:-----------------------------------------------:
+![](/images/peppers.png)   |  ![](/images/%20pep%20k%20%3D10%20random%20.png) | ![](/images/%20pep%20k%20%3D15%20random%20.png)
+
 
 
 
