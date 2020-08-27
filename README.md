@@ -43,7 +43,7 @@ Original Image             |   My Harris Corner
 
 
 
-Original Image             |                 K=10 (random init)               |                  K=15 (random init)    
+Original Image             |  K=10 (random init)                              |     K=15 (random init)    
 :-------------------------:|:------------------------------------------------:|:----------------------------------------------:
 ![](/images/peppers.png)   |  ![](/images/%20pep%20k%20%3D10%20random%20.png) | ![](/images/%20pep%20k%20%3D15%20random%20.png)
 
