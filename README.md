@@ -20,3 +20,5 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Equilization Task, Histogram , Histogram Equlization , R-G-B Equlization
 * Image Denoising , Gaussian Filter , Sobel Filter
 * Image rotation, Forward and backward Mapping.
+
+![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/face%2003%20u6734495.jpg)
