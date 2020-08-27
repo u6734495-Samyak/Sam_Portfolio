@@ -21,4 +21,4 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Image Denoising , Gaussian Filter , Sobel Filter
 * Image rotation, Forward and backward Mapping.
 
-![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/face%2003%20u6734495.jpg)
+![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/face%2003%20u6734495.jpg) ![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/gaussian%20output_3.jpg) 
