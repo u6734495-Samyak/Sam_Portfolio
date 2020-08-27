@@ -36,16 +36,14 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * K-Means ALgorithm
 * K means ++
 
-
 <p align="center">
-  <img src="/images/Corner_4.jpg" />
-</p>
+  <img src="/images/Corner_4.jpg" width="300" />
+  </p>
+<p align="center"> 
+  <img src="/images/k15.png" width="300" />
+  </p>
 
-<p align="center">
-  <img src="/images/k15.png" />
-</p>
 
-  
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
 
 
