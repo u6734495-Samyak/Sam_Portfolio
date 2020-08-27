@@ -2,7 +2,11 @@
 
 A combination of lightweight, high specific strength, and good castability make magnesium alloys a promising engineering material for the automotive and aerospace industries. Vehicle weight reduction is one of the major means available to improve automotive fuel efficiency. High-strength steels, Aluminium (Al), and polymers are already being used to reduce weight significantly, but substantial additional reductions could be achieved by greater use of low-density magnesium (Mg) and its alloys. This project herein, therefore, relies on the use of machine learning, to assist in the development of A.I. to predict alloy compositions that are potentially useful for future metallic alloys. This study shows how a machine learning approach is able to offer acceptable precision predictions with respect to the main mechanical properties of metals.
 
-![](/images/Pie.png)
+<p align="center">
+  <img src="/images/Pie.png" width = "800" />
+</p>
+
+
 
 
 # [Project 2: Breast Cancer Classifier : Project Overview](https://github.com/u6734495-Samyak/KaggleBreastCancer)
@@ -12,7 +16,11 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * GridSearchCV was implemented that helped us obtain the best setting paramters for the desire classifier.
 * In this particular exercise, Support Vector Machine was able to acheive the highest average and overall accuracy.
 
-![](/images/metrics.png)
+<p align="center">
+  <img src="/images/metrics.png" width="600" />
+</p>
+
+
 
 
 # [Project 3: A Simple Computer Vision Project : Project Overview](https://github.com/u6734495-Samyak/Computer-Vision)
@@ -41,6 +49,8 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 </p>
 
 
+
+
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
 
 
@@ -59,6 +69,7 @@ In this age of deep learning , neural nets with large number neurons and paramet
 
 
 
+
 # [Project 7 : Transfer Learning and Network Redution](https://github.com/u6734495-Samyak/Transfer-Learning-with-Network-Redcution-Technique)
 
 The goal of this study was to experiment with the network reduction technique based on distinctiveness. We implemented the technique on a simple feed-forward neural network that dealt with the summarized version of the images and extended our implementation to deep learning that dealt with actual images . Our findings showed us that using deep learning and transfer learning to detect faces-emotion had a higher performance measure than using the summarized version .In addition to this, we experimented with the number of hidden neurons and our research showed us that overall the pruning technique was useful to an extent in removing undesirable and redundant neurons and increasing the performance of our model with a large number of hidden neurons.But on the other hand when the number of hidden neurons are small the pruning had a negative effect on the performance measure.
@@ -68,6 +79,8 @@ The goal of this study was to experiment with the network reduction technique ba
 <p align="center">
   <img src="/images/Accuracieswithdifferentmodels.png" />
 </p>
+
+
 
 
 # [Project 8 : Fantasy Premier League top 50 managers Analysis 19/20 ](https://public.tableau.com/profile/samyak5029#!/vizhome/Fpltop50Viz/Dashboard1?publish=yes)
