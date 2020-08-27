@@ -59,7 +59,7 @@ In this age of deep learning , neural nets with large number neurons and paramet
 The goal of this study was to experiment with the network reduction technique based on distinctiveness. We implemented the technique on a simple feed-forward neural network that dealt with the summarized version of the images and extended our implementation to deep learning that dealt with actual images . Our findings showed us that using deep learning and transfer learning to detect faces-emotion had a higher performance measure than using the summarized version .In addition to this, we experimented with the number of hidden neurons and our research showed us that overall the pruning technique was useful to an extent in removing undesirable and redundant neurons and increasing the performance of our model with a large number of hidden neurons.But on the other hand when the number of hidden neurons are small the pruning had a negative effect on the performance measure.
 
 
-![](/images/Accuracies%20with%20different%20models)
+![](/images/Accuracies%20with%20different%20models.png)
 
 
 
