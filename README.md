@@ -22,7 +22,9 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Image Denoising , Gaussian Filter , Sobel Filter
 * Image rotation, Forward and backward Mapping.
 
-<img align="left" width="200" height="200" src=/images/face%2003%20u6734495.jpg> 
-<img align="centre" width="200" height="200" src=/images/gaussian%20output_3.jpg> 
+Original Image             |  Gaussian Filter
+:-------------------------:|:-------------------------:
+![](/images/face%2003%20u6734495.jpg)  |  ![](/images/gaussian%20output_3.jpg)
+
 
 
