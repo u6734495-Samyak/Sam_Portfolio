@@ -11,3 +11,4 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * GridSearchCV was implemented that helped us obtain the best setting paramters for the desire classifier.
 * In this particular exercise, Support Vector Machine was able to acheive the highest average and overall accuracy.
 
+![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/_Pie.png)
