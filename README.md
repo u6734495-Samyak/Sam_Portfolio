@@ -14,7 +14,8 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 ![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/metrics.png)
 
 
-# A Simple Computer Vision Project Project Overview
+# [Project 3: A Simple Computer Vision Project : Project Overview](https://github.com/u6734495-Samyak/Computer-Vision)
+
 * Basic Image I/O operations performed
 * Equilization Task, Histogram , Histogram Equlization , R-G-B Equlization
 * Image Denoising , Gaussian Filter , Sobel Filter
