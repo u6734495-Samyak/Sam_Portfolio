@@ -23,7 +23,7 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Image rotation, Forward and backward Mapping.
 
 Original Image             |  Gaussian Filter
-:-------------------------:|:-------------------------:
+:-------------------------:|:------------------------------------:
 ![](/images/Q4_crop.jpg)   |  ![](/images/gaussian%20output_3.jpg)
 
 
@@ -44,12 +44,15 @@ Original Image             |   My Harris Corner
 
 
 Original Image             |                 K=10 (random init)               |                  K=15 (random init)    
-:-------------------------:|:------------------------------------------------:|:-----------------------------------------------:
+:-------------------------:|:------------------------------------------------:|:----------------------------------------------:
 ![](/images/peppers.png)   |  ![](/images/%20pep%20k%20%3D10%20random%20.png) | ![](/images/%20pep%20k%20%3D15%20random%20.png)
 
 
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
 
+
 ![](/images/Dashboard%201.png)
+
+
 
 
