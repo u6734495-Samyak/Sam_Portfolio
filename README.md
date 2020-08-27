@@ -3,7 +3,7 @@
 A combination of lightweight, high specific strength, and good castability make magnesium alloys a promising engineering material for the automotive and aerospace industries. Vehicle weight reduction is one of the major means available to improve automotive fuel efficiency. High-strength steels, Aluminium (Al), and polymers are already being used to reduce weight significantly, but substantial additional reductions could be achieved by greater use of low-density magnesium (Mg) and its alloys. This project herein, therefore, relies on the use of machine learning, to assist in the development of A.I. to predict alloy compositions that are potentially useful for future metallic alloys. This study shows how a machine learning approach is able to offer acceptable precision predictions with respect to the main mechanical properties of metals.
 
 <p align="center">
-  <img src="/images/Pie.png" />
+  <img src="images/Pie.png" />
 </p>
 
 
@@ -17,7 +17,7 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * In this particular exercise, Support Vector Machine was able to acheive the highest average and overall accuracy.
 
 <p align="center">
-  <img src="/images/metrics.png" />
+  <img src="images/metrics.png" />
 </p>
 
 
@@ -45,7 +45,7 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * K means ++
 
 <p align="center">
-  <img src="/images/Corner_4.jpg" width="300" />
+  <img src="images/Corner_4.jpg" width="300" />
 </p>
 
 
@@ -64,7 +64,7 @@ In this age of deep learning , neural nets with large number neurons and paramet
 [Link to Research Paper](https://github.com/u6734495-Samyak/Neural-Network-Pruning/blob/master/u6734495_NN1.pdf)
 
 <p align="center">
-  <img src="/images/AccuracyGraph1.png" />
+  <img src="images/AccuracyGraph1.png" />
 </p>
 
 
@@ -77,7 +77,7 @@ The goal of this study was to experiment with the network reduction technique ba
 [Link to Research Paper](https://github.com/u6734495-Samyak/Transfer-Learning-with-Network-Redcution-Technique/blob/master/u6734495_NN2.pdf)
 
 <p align="center">
-  <img src="/images/Accuracieswithdifferentmodels.png" />
+  <img src="images/Accuracieswithdifferentmodels.png" />
 </p>
 
 
