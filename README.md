@@ -39,9 +39,6 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 <p align="center">
   <img src="/images/Corner_4.jpg" width="300" />
   </p>
-<p align="center"> 
-  <img src="/images/k15.png" width="300" />
-  </p>
 
 
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
@@ -57,7 +54,10 @@ In this age of deep learning , neural nets with large number neurons and paramet
 [Link to Research Paper](https://github.com/u6734495-Samyak/Neural-Network-Pruning/blob/master/u6734495_NN1.pdf)
 
 
-![](/images/AccuracyGraph1.png)
+<p align="center">
+  <img src="/images/AccuracyGraph1.png" />
+</p>
+
 
 
 # [Project 7 : Transfer Learning and Network Redution](https://github.com/u6734495-Samyak/Transfer-Learning-with-Network-Redcution-Technique)
@@ -66,9 +66,9 @@ The goal of this study was to experiment with the network reduction technique ba
 
 [Link to Research Paper](https://github.com/u6734495-Samyak/Transfer-Learning-with-Network-Redcution-Technique/blob/master/u6734495_NN2.pdf)
 
-![](/images/AccuracyGraph1.png)
-
-![](/images/EffectofPruningwithdifferentHiddenUnits.png)
+<p align="center">
+  <img src="/images/Accuracieswithdifferentmodels.png" />
+</p>
 
 
 # [Project 8 : Fantasy Premier League top 50 managers Analysis 19/20 ](https://public.tableau.com/profile/samyak5029#!/vizhome/Fpltop50Viz/Dashboard1?publish=yes)
