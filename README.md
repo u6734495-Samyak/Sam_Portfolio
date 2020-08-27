@@ -48,5 +48,7 @@ Original Image             |                 K=10 (random init)               | 
 ![](/images/peppers.png)   |  ![](/images/%20pep%20k%20%3D10%20random%20.png) | ![](/images/%20pep%20k%20%3D15%20random%20.png)
 
 
+# [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
+
 
 
