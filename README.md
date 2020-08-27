@@ -23,7 +23,7 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Image rotation, Forward and backward Mapping.
   
 
-![](/images/gaussian%20output_3.jpg "Gaussian Filter") 
+![](/images/gaussian%20output_3.jpg) 
 
 
 
