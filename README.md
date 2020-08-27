@@ -64,6 +64,17 @@ The goal of this study was to experiment with the network reduction technique ba
 ![](/images/EffectofPruningwithdifferentHiddenUnits.png)
 
 
+# [Project 5 : Fantasy Premier League top 50 managers Analysis 19/20 ](https://public.tableau.com/profile/samyak5029#!/vizhome/Fpltop50Viz/Dashboard1?publish=yes)
+
+A little insight into the top 50 Fpl Managers in the 19/20 PL season.
+* How many hits did the managers take throughout the season
+* Gameweek when Wildcard #1 was played vs Wildcard #2
+* Average points returned by captain vs How many times the captain failed
+* Most captained player among the managers
+
+![](/images/Dashboard2.png)
+
+
 
 
 
