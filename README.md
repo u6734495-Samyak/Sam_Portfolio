@@ -4,7 +4,7 @@ A combination of lightweight, high specific strength, and good castability make 
 
 ![](https://github.com/u6734495-Samyak/Sam_Portfolio/blob/master/images/_Pie.png)
 
-# [Project 2: Breast Cancer Classifier : Project Overview]
+# [Project 2: Breast Cancer Classifier : Project Overview](https://github.com/u6734495-Samyak/KaggleBreastCancer)
 
 Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classifier that can help diagnose patients and predict the likelihood of a breast cancer. A few machine learning techniques will be explored. 
 * A few known machine learning classifiers were comapared against each other to obtain the best classifier.
