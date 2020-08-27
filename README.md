@@ -53,7 +53,6 @@ In this age of deep learning , neural nets with large number neurons and paramet
 
 [Link to Research Paper](https://github.com/u6734495-Samyak/Neural-Network-Pruning/blob/master/u6734495_NN1.pdf)
 
-
 <p align="center">
   <img src="/images/AccuracyGraph1.png" />
 </p>
