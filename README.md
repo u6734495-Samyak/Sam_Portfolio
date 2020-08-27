@@ -22,8 +22,10 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * Image Denoising , Gaussian Filter , Sobel Filter
 * Image rotation, Forward and backward Mapping.
   
+<p align="center">
+  <img src="images/gaussianoutput_3.jpg" />
+</p>
 
-![](images/gaussianoutput_3.jpg) 
 
 
 
@@ -35,10 +37,14 @@ Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classif
 * K means ++
 
 
-![](/images/Corner_4.jpg)
+<p align="center">
+  <img src="/images/Corner_4.jpg" />
+</p>
 
+<p align="center">
+  <img src="/images/k15.png" />
+</p>
 
-![](/images/k15.png)
   
 # [Project 5 : Covid 19 Numbers using Tableau](https://public.tableau.com/profile/samyak5029#!/vizhome/Covid-19_15983430784780/Dashboard1)
 
@@ -67,7 +73,7 @@ The goal of this study was to experiment with the network reduction technique ba
 ![](/images/EffectofPruningwithdifferentHiddenUnits.png)
 
 
-# [Project 5 : Fantasy Premier League top 50 managers Analysis 19/20 ](https://public.tableau.com/profile/samyak5029#!/vizhome/Fpltop50Viz/Dashboard1?publish=yes)
+# [Project 8 : Fantasy Premier League top 50 managers Analysis 19/20 ](https://public.tableau.com/profile/samyak5029#!/vizhome/Fpltop50Viz/Dashboard1?publish=yes)
 
 A little insight into the top 50 Fpl Managers in the 19/20 PL season.
 * How many hits did the managers take throughout the season
